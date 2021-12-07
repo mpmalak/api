@@ -3,7 +3,9 @@
   "email": ["mark@mpmalak.com", "mpmalak@gmail.com"],
   "tagLine": "Law offices of Mark Malak",
   "bio": [
-    "Mark has been practicing law for nearly 40 years and specializes in family court matters",
-    "This law firm is located in New York and has been serving mostly Oneida county since 1994\r"
+    "Mark has been practicing law for nearly 40 years",
+    "and specializes in family court matters",
+    "This law firm is located in New York and has",
+    "been serving mostly Oneida county since 1994\r"
   ]
 }
