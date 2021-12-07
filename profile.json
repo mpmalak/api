@@ -1,5 +1,9 @@
 {
   "name": "Mark Malak",
-  "email": "mark@mpmalak.com",
-  "tagLine": "Law offices of Mark Malak"
+  "email": ["mark@mpmalak.com", "mpmalak@gmail.com"],
+  "tagLine": "Law offices of Mark Malak",
+  "bio": [
+    "This law firm is located in New York and serves mostly Oneida county\r",
+    "Mark has been practicing law for nearly 40 years and does mostly family court"
+  ]
 }
